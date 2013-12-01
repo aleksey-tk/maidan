@@ -2,22 +2,20 @@
 exclude: ['readme.md']
 
 # Website name
-name: Example
+name: '#Euromaidan'
 
 # Website slogan
-slogan: This is my site. It's awesome.
+slogan: Live Videos
 
 # Header menu 
-header-navigation:
-- text: Home
-  url: /index.html
-- text: Page 1
-  url: /page1.html
-- text: Page 2
-  url: /page2.html
-- text: Page 3
-  url: /page3.html
+#header-navigation:
+#- text: Videos
+#  url: /index.html
+#- text: Ukraine
+#  url: /page1.html
+#- text: World
+#  url: /page2.html
 
 # Default meta description and keywords
-description: Meta description goes here (will be used globally, override it per page)
-keywords: Meta keywords goes here (will be used globally, override it per page)
+description: 
+keywords: 
