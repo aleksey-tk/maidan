@@ -4,7 +4,6 @@
     <div class="col-lg-12">
       <div class="pull-right">
         <div class="fb-like" data-href="http://maidan.alexisyes.com/" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
-
         <ul class="nav navbar-nav">
         <!-- Header menu generation using _config.yml -->
         {% for link in site.header-navigation %}
@@ -17,6 +16,7 @@
          </li>
         {% endfor %}
         </ul>
+
       </div>
       <h1>{{site.name}} <small>{{site.slogan}}</small></h1>
       <hr />

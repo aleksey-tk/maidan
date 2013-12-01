@@ -7,19 +7,15 @@ name: '#Euromaidan'
 # Website slogan
 slogan: Live Videos
 
-# Header menu 
-#header-navigation:
-#- text: Videos
-#  url: /index.html
-#- text: Ukraine
-#  url: /page1.html
-#- text: World
-#  url: /page2.html
-
 # Default meta description and keywords
-description: Live videos from Kyiv in one page. 
-keywords: euromaidan, live videos
+description: Live videos from Kyiv in one page. Please consider going to the center of the city to support others. 
+keywords: euromaidan, live videos, kyiv, kiev, ukraine, видео, майдан
 
 og_title: '#Euromaidan'
 og_description: 'Live videos from Kyiv in one page.'
 og_image: 'http://maidan.alexisyes.com/assets/img/maidan.jpg'
+
+# Header menu 
+#header-navigation:
+#- text: About
+#  url: /about.html
