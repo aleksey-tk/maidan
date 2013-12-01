@@ -17,5 +17,9 @@ slogan: Live Videos
 #  url: /page2.html
 
 # Default meta description and keywords
-description: 
-keywords: 
+description: Live videos from Kyiv in one page. 
+keywords: euromaidan, live videos
+
+og_title: '#Euromaidan'
+og_description: 'Live videos from Kyiv in one page.'
+og_image: 'assets/img/maidan.jpg'

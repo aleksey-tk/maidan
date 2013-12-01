@@ -3,6 +3,8 @@
   <div class="row">
     <div class="col-lg-12">
       <div class="pull-right">
+        <div class="fb-like" data-href="http://maidan.alexisyes.com/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
         <ul class="nav navbar-nav">
         <!-- Header menu generation using _config.yml -->
         {% for link in site.header-navigation %}
