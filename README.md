@@ -1,6 +1,6 @@
 # Maidan
 
-Various live videos.
+Various live videos. Lulz images. Twitter and Instagram widget. 
 
 Based on:
 
