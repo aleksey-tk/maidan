@@ -16,6 +16,8 @@ og_description: 'Live videos from Kyiv in one page.'
 og_image: 'http://maidan.alexisyes.com/assets/img/maidan.jpg'
 
 # Header menu 
-#header-navigation:
-#- text: About
-#  url: /about.html
+header-navigation:
+- text: Videos
+  url: /index.html
+- text: Lulz
+  url: /lulz.html
