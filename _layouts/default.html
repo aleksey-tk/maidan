@@ -20,30 +20,27 @@
   <meta name="keywords" content="{{site.keywords | join: ','}}" />
   {% endif %}
   
+  <!-- Open graph tags generation -->
   {% if page.og_title %}
   <meta propery="og:title" content="{{page.og_title}}" />
   {% else %}
   <meta property="og:title" content="{{site.og_title}}" />
   {% endif %}
-
   {% if page.og_description %}
   <meta property="og:description" content="{{page.og_description}}" />
   {% else %}
   <meta property="og:description" content="{{site.og_description}}" />
   {% endif %}
-
   {% if page.og_image %}
   <meta property="og:image" content="{{page.og_image}}" />
   {% else %}
   <meta property="og:image" content="{{site.og_image}}" />
   {% endif %}
   
-
+  <!-- Website title tag generation -->
   <title>{{ site.name }} | {{ page.title }}</title>
-
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/app.css">
-
 </head>
 <body>
 <script>
@@ -66,20 +63,16 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
   <div class="container">
+  
   <!-- Header -->
-
   {% include header.inc %}
-
   <!-- End Header -->
 
   <!-- Main Page Content -->
-
   {{ content }}
-
   <!-- End Main Content -->
 
   <!-- Footer -->
-
   {% include footer.inc %}
 
   <script src="assets/js/jquery.min.js"></script>

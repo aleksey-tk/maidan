@@ -14,6 +14,7 @@ slogan: Live
 description: Live videos from Kyiv in one page. Please consider going to the center of the city to support others. 
 keywords: euromaidan, live videos, kyiv, kiev, ukraine, видео, майдан
 
+# Open Graph tags management
 og_title: '#Euromaidan'
 og_description: 'Live videos from Kyiv in one page. Lulz. Live twitter feeds. Live Instagram feeds. Please consider going to the center of the city to support others!'
 og_image: 'http://maidan.alexisyes.com/assets/img/maidan.jpg'
