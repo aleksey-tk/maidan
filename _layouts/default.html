@@ -32,9 +32,12 @@
   <meta property="og:description" content="{{site.og_description}}" />
   {% endif %}
 
-  {% if site.og_image %}
+  {% if page.og_image %}
+  <meta property="og:image" content="{{page.og_image}}" />
+  {% else %}
   <meta property="og:image" content="{{site.og_image}}" />
   {% endif %}
+  
 
   <title>{{ site.name }} | {{ page.title }}</title>
 
