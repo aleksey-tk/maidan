@@ -2,3 +2,19 @@
   Standards: HTML5, CSS3
   Components: jQuery, Bootstrap, html5 Boilerplate
   Software: Git, Jekyll
+  Hosting: Github pages
+
+/* Code */
+  https://github.com/shumushin/maidan
+
+/* Aleksey Tkachenko <cyberpank@gmail.com> */
+
+
+$$\      $$\           $$\       $$\                     
+$$$\    $$$ |          \__|      $$ |                    
+$$$$\  $$$$ | $$$$$$\  $$\  $$$$$$$ | $$$$$$\  $$$$$$$\  
+$$\$$\$$ $$ | \____$$\ $$ |$$  __$$ | \____$$\ $$  __$$\ 
+$$ \$$$  $$ | $$$$$$$ |$$ |$$ /  $$ | $$$$$$$ |$$ |  $$ |
+$$ |\$  /$$ |$$  __$$ |$$ |$$ |  $$ |$$  __$$ |$$ |  $$ |
+$$ | \_/ $$ |\$$$$$$$ |$$ |\$$$$$$$ |\$$$$$$$ |$$ |  $$ |
+\__|     \__| \_______|\__| \_______| \_______|\__|  \__|
