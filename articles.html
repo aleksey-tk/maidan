@@ -1,0 +1,14 @@
+---
+layout: default
+title: Must read
+og_title: '#Euromaidan must read'
+og_description: 'Must read from Kyiv in one page.'
+og_image: 'http://maidan.alexisyes.com/assets/img/traktor.jpg'
+---
+  <h2>Must read</h2>
+  <p class="text-center"><ol>
+  {% for article in site.data.articles %}
+    <li><a href="{{article.url}}">{{article.title}}</a></li>
+  {% endfor %}
+  </ol></p>
+  <hr />
