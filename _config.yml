@@ -4,6 +4,9 @@ exclude: ['readme.md']
 # Website name
 name: '#Euromaidan'
 
+# Website hostname
+hostname: "http://maidan.alexisyes.com"
+
 # Website slogan
 slogan: Live
 
