@@ -25,6 +25,8 @@ header-navigation:
   url: /index.html
 - text: Lulz
   url: /lulz.html
+- text: Must read
+  url: /articles.html
 - text: Instagram
   url: /instagram.html
 - text: Twitter
