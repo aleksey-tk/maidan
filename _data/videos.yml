@@ -7,6 +7,9 @@
 - channel: Hromadske online (3/12/2013)
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/frcu82Br_eo" frameborder="0" allowfullscreen></iframe>
+- channel: 24 channel online
+  embed_code: | 
+    <iframe width="853" height="480" src="//www.youtube.com/embed/LIJL2v6RSxU" frameborder="0" allowfullscreen></iframe>
 - channel: Radio Svoboda live
   embed_code: |
     <iframe src="http://radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=42&amp;w=853&amp;h=480" scrolling="no" frameborder="0" width="853" height="480"></iframe>
