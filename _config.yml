@@ -1,6 +1,9 @@
 # Files to exclude from build
 exclude: ['readme.md']
 
+# Encoding
+encoding: UTF-8
+
 # Website name
 name: '#Euromaidan'
 
