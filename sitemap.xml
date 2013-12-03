@@ -7,4 +7,5 @@ layout: none
 {% for link in site.header-navigation %}
   <url><loc>{{site.hostname}}{{link.url}}</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
 {% endfor %}
+  <url><loc>{{site.hostname}}/humans.txt</loc><changefreq>monthly</changefreq><priority>0.1</priority></url>
 </urlset>
