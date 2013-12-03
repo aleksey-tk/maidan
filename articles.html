@@ -10,7 +10,7 @@ published: true
 <h2>Must read</h2>
   <p class="text-center"><ol>
   {% for article in site.data.articles %}
-<li><a href="{{article.url}}">{{article.title}} - {{article.domain}}</a></li>
+    <li><a href="{{article.url}}">{{article.title}}</a> - {{article.domain}}</li>
   {% endfor %}
   </ol></p>
   <hr />
