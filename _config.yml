@@ -36,5 +36,6 @@ header-navigation:
   url: /twitter.html
 - text: Facebook
   url: https://www.facebook.com/EuroMaydan
+  external: true
 - text: Таня <3
   url: /tanya.html

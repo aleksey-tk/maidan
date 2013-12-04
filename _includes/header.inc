@@ -11,7 +11,7 @@
           {% assign current = 'active' %}
         {% endif %}        
          <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-          <a class="{{ current }} button" href="{{ link.url }}">{{ link.text }}</a>
+          <a class="{{ current }} button" href="{{ link.url }}"{% if link.external = 'true' %} target="_blank"{% endif %}>{{ link.text }}</a>
          </li>
         {% endfor %}
         </ul>
