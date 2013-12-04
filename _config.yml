@@ -34,5 +34,7 @@ header-navigation:
   url: /instagram.html
 - text: Twitter
   url: /twitter.html
+- text: Facebook
+  url: https://www.facebook.com/EuroMaydan
 - text: Таня <3
   url: /tanya.html
