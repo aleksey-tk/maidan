@@ -16,6 +16,9 @@
 - channel: Radio Svoboda live
   embed_code: |
     <iframe src="http://radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=42&amp;w=853&amp;h=480" scrolling="no" frameborder="0" width="853" height="480"></iframe>
+- channel: Radio Svoboda live camera 2
+  embed_code: |
+    <iframe src="http://radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=52&amp;w=640&amp;h=363" scrolling="no" frameborder="0" width="640" height="363"></iframe>
 - channel: Spilne TV
   embed_code: |
     <iframe width="720" height="572" src="http://www.ustream.tv/embed/15360937?ub=ff3d23&amp;lc=ff3d23&amp;oc=ffffff&amp;uc=ffffff&amp;v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
