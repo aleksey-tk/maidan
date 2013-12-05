@@ -1,3 +1,4 @@
+{%if page.comments <> false %}
 <div class="col-lg-12">
    <p class="text-center">
    <div id="disqus_thread"></div>
@@ -16,6 +17,7 @@
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </p>
  </div>
+ {% endif %}
 <footer>
   <div class="row">
     <div class="col-lg-12">
