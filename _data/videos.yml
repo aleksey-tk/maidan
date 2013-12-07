@@ -19,7 +19,7 @@
 - channel: Spilne TV
   embed_code: |
     <iframe width="853" height="480" src="http://www.ustream.tv/embed/15360937?ub=ff3d23&amp;lc=ff3d23&amp;oc=ffffff&amp;uc=ffffff&amp;v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-- channel: 5 Canal live live
+- channel: 5 Canal live
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/girrrlTQzbg" frameborder="0" allowfullscreen></iframe>
 - channel: Crimean TV
