@@ -36,7 +36,10 @@
   {% else %}
   <meta property="og:image" content="{{site.og_image}}" />
   {% endif %}
-  
+  {% if page.og_url %}
+  <meta property="og:url" content="{{page.og_url}}" />
+  {% endif %}
+
   <!-- Website title tag generation -->
   <title>{{ site.name }} | {{ page.title }}</title>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
