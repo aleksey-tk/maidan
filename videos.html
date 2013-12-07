@@ -1,0 +1,16 @@
+---
+layout: default
+title: Live Videos
+---
+  <div class="row">
+  {% for video in site.data.videos %}
+    <div class="col-lg-12">
+      <p class="text-center">
+        <b>{{ video.channel }}</b>
+      </p>
+      <p class="text-center">
+         {{ video.embed_code}}
+      </p>
+    </div>
+  {% endfor %}
+  </div>-->

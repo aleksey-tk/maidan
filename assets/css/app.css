@@ -10,3 +10,10 @@
     display: inline-block;
     margin-left: 30px;
 }
+
+.inner-item {
+  text-align: center;
+  img {
+    margin: 0 auto;
+  }
+}
