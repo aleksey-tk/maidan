@@ -8,7 +8,7 @@ encoding: UTF-8
 name: '#Euromaidan'
 
 # Website hostname
-hostname: "http://maidan.alexisyes.com"
+hostname: "http://maidan.is-amazing.com"
 
 # Website slogan
 slogan: Live
@@ -20,7 +20,7 @@ keywords: euromaidan, live videos, kyiv, kiev, ukraine, видео, майдан
 # Open Graph tags management
 og_title: '#Euromaidan'
 og_description: 'Live videos from Kyiv in one page. Lulz. Live twitter feeds. Live Instagram feeds. Please consider going to the center of the city to support others!'
-og_image: 'http://maidan.alexisyes.com/assets/img/maidan.jpg'
+og_image: 'http://maidan.is-amazing.com/assets/img/maidan.jpg'
 
 # Header menu 
 header-navigation:
