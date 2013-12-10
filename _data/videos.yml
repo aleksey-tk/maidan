@@ -43,5 +43,8 @@
 - channel: "Maidan"
   embed_code: |
     <iframe width="853" height="480" src="http://www.ustream.tv/embed/16621471?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: Espreso TV
+  embed_code: |
+    <iframe width="853" height="480" src="//www.youtube.com/embed/bZ1s1bj6AZE" frameborder="0" allowfullscreen></iframe>
 
 
