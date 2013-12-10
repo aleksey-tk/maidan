@@ -24,7 +24,7 @@
     <iframe width="853" height="480" src="//www.youtube.com/embed/girrrlTQzbg" frameborder="0" allowfullscreen></iframe>
 - channel: Crimean TV
   embed_code: |
-    <object width="853" height="480" id="player"><param name="movie" value="http://www.ct.fm/uppod/uppod.swf"></param><param name="allowFullScreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="FlashVars" value="st=61AchBG5DAuac=x5n842Qi63GNnasQX6BGzJRCQnHB0zIRSw3LCG8jLfGmGm5hntu0c9BMre&amp;link=c:2iob3gRLvcwV3dJZvI9zvckV0ikhGawV3Vrr&amp;pl=02AEZBUcLkYaL1xao7Jw69t2MWRFGJ6dwELFdwbRCwbRQCQnHB0IRSwn3LCGjLfGmGQm5ntu0c9BMrR" /><embed src="http://www.ct.fm/uppod/uppod.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="447" flashvars="st=61AchBG5DAuac=x5n842Qi63GNnasQX6BGzJRCQnHB0zIRSw3LCG8jLfGmGm5hntu0c9BMre&amp;link=c:2iob3gRLvcwV3dJZvI9zvckV0ikhGawV3Vrr&amp;pl=02AEZBUcLkYaL1xao7Jw69t2MWRFGJ6dwELFdwbRCwbRQCQnHB0IRSwn3LCGjLfGmGQm5ntu0c9BMrR"/></object>
+    <iframe width="853" height="480" src="//www.youtube.com/embed/rHgFTJafW4g" frameborder="0" allowfullscreen></iframe>
 - channel: KPI live
   embed_code: |
     <iframe width="853" height="480" src="http://www.ustream.tv/embed/10556312?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
