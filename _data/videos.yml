@@ -19,7 +19,7 @@
 - channel: Spilne TV
   embed_code: |
     <iframe width="853" height="480" src="http://www.ustream.tv/embed/15360937?ub=ff3d23&amp;lc=ff3d23&amp;oc=ffffff&amp;uc=ffffff&amp;v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-- channel: 5 Canal live
+- channel: 5 Canal liv
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/girrrlTQzbg" frameborder="0" allowfullscreen></iframe>
 - channel: Crimean TV
@@ -28,6 +28,20 @@
 - channel: KPI live
   embed_code: |
     <iframe width="853" height="480" src="http://www.ustream.tv/embed/10556312?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-  channel: Za Ukrainu!
+- channel: Za Ukrainu!
   embed_code: |
-    <iframe width="852" height="480" src="http://www.ustream.tv/embed/16559628?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+    <iframe width="853" height="480" src="http://www.ustream.tv/embed/16559628?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: Grom TV Bankova str
+  embed_code: |
+    <iframe width="853" height="480" src="http://www.ustream.tv/embed/16613979?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: NB News
+  embed_code: |
+    <iframe width="853" height="480" src="http://www.ustream.tv/embed/16554055?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: "#Euromaidan"
+  embed_code: |
+    <iframe width="853" height="480" src="http://www.ustream.tv/embed/16573315?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: "Maidan"
+  embed_code: |
+    <iframe width="853" height="480" src="http://www.ustream.tv/embed/16621471?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+
+
