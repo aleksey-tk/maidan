@@ -8,7 +8,7 @@ og_url: http://maidan.alexisyes.com
   <div class="col-lg-3">
     <!-- Indicators -->
     {% for video in site.data.videos %}
-      <button type="button" class="btn btn-default" style="width: 250px; float: left; margin-bottom: 10px" data-target="#carousel-example-generic" data-slide-to="{{ forloop.index | minus: 1 }}"{% if forloop.first %} class="active"{% endif %}>{{ video.channel }}</button><br />
+      <button type="button" class="btn btn-default" style="width: 250px; float: left; margin-bottom: 5px" data-target="#carousel-example-generic" data-slide-to="{{ forloop.index | minus: 1 }}"{% if forloop.first %} class="active"{% endif %}>{{ video.channel }}</button><br />
     {% endfor %}
   </div>
   
