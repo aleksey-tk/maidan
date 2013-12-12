@@ -7,9 +7,9 @@
 - channel: Mustafa live
   embed_code: |
     <iframe width="853" height="480" src="http://www.ustream.tv/embed/16573954?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-- channel: Hromadske online (11/12/2013)
+- channel: Hromadske online (12/12/2013)
   embed_code: |
-    <iframe width="853" height="480" src="//www.youtube.com/embed/MpL2zOPa588" frameborder="0" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="//www.youtube.com/embed/oWx8n8mIfog" frameborder="0" allowfullscreen></iframe>
 - channel: 24 channel online
   embed_code: | 
     <iframe width="853" height="480" src="//www.youtube.com/embed/LIJL2v6RSxU" frameborder="0" allowfullscreen></iframe>
