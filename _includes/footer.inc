@@ -5,7 +5,8 @@
     <script async type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'maidanlivevideos'; // required: replace example with your forum shortname
-
+        var disqus_identifier = 'index_page';
+        
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
