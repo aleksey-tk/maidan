@@ -1,6 +1,6 @@
 - channel: Radio Svoboda live camera 2
   embed_code: |
-    <iframe width="853" height="480" src="//radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=52&amp;w=853&amp;h=480" scrolling="no" frameborder="0" ></iframe>
+    <iframe width="100%" height="100%" src="//radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=52&amp;w=853&amp;h=480" scrolling="no" frameborder="0" ></iframe>
 - channel: Aronetz live
   embed_code: |
     <iframe width="853" height="480" src="//www.ustream.tv/embed/16544269?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
