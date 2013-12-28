@@ -1,10 +1,10 @@
-<!-- Nav Bar -->
+<!-- Nav Bar 
 <header>
   <div class="row">
     <div class="col-lg-12">    
        <div class="pull-right">
         <ul class="nav navbar-nav">
-        <!-- Header menu generation using _config.yml -->
+        <!-- Header menu generation using _config.yml
         {% for link in site.header-navigation %}
         {% assign current = nil %}
         {% if page.url == link.url or page.layout == link.layout %}
@@ -27,5 +27,38 @@
       <hr />
     </div>
   </div>
+</header>
+ End Nav -->
+<!-- Nav Bar -->
+<header>
+  <nav class="navbar navbar-default" role="navigation">
+  <!-- Brand and toggle get grouped for better mobile display -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <h1><a href="/">{{site.name}} <small>{{site.slogan}}</small></a></h1>
+  </div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse navbar-ex1-collapse">
+    <ul class="nav navbar-nav navbar-right">
+       <!-- Header menu generation using _config.yml -->
+        {% for link in site.header-navigation %}
+        {% assign current = nil %}
+        {% if page.url == link.url or page.layout == link.layout %}
+          {% assign current = 'active' %}
+        {% endif %}        
+         <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+          <a class="{{ current }} button" href="{{ link.url }}"{% if link.external == true %} target="_blank"{% endif %}>{{ link.text }}</a>
+         </li>
+        {% endfor %}
+    </ul>
+    
+  </div><!-- /.navbar-collapse -->
+</nav>
 </header>
 <!-- End Nav -->
