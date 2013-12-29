@@ -7,11 +7,12 @@ og_image: "http://maidan.alexisyes.com/assets/img/traktor.jpg"
 published: true
 id: articles
 ---
-
 <h2>Must read</h2>
-  <p class="text-center"><ol>
+<p class="text-center">
+  <ol>
   {% for article in site.data.articles %}
     <li><a target="_blank" href="{{article.url}}">{{article.title}}</a> - {{article.domain}}</li>
   {% endfor %}
-  </ol></p>
-  <hr />
+  </ol>
+</p>
+<hr />

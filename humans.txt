@@ -7,7 +7,11 @@
 /* Code */
   https://github.com/shumushin/maidan
 
+/* Framework */
+  https://github.com/shumushin/jekyll-bootstrap
+
 /* Aleksey Tkachenko <cyberpank@gmail.com> */
+/* Dmitry Smirnov <dmitler@gmail.com> */
 
 
 $$\      $$\           $$\       $$\                     
