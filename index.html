@@ -18,7 +18,7 @@ id: index
     <div class="carousel-inner">
     {% for video in site.data.videos %}
       <div class="item{% if forloop.first %} active{% endif %}">
-        <div class="inner-item {{ forloop.index | minus: 1 }}">
+        <div class="inner-item {{ forloop.index | minus: 1 }} video-container">
           {{ video.embed_code }}
         </div>
       </div>        

@@ -46,7 +46,7 @@
 
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse navbar-ex1-collapse">
-    <ul class="nav navbar-nav navbar-right col-sm-12 col-lg-7 col-md-8">
+    <ul class="nav navbar-nav navbar-right col-sm-12 col-lg-7 col-md-8" style="margin-top: 20px;">
        <!-- Header menu generation using _config.yml -->
         {% for link in site.header-navigation %}
         {% assign current = nil %}
