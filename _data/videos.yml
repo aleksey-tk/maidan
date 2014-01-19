@@ -1,6 +1,6 @@
-- channel: Radio Svoboda live camera 2
+- channel: Radio svoboda (vul. Grushevskogo)
   embed_code: |
-    <iframe width="853" height="480" src="//radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=52&amp;w=853&amp;h=480" scrolling="no" frameborder="0" ></iframe>
+    <iframe width="853" height="480" src="//www.youtube.com/embed/wUQsZ983LBM" frameborder="0" allowfullscreen></iframe>
 - channel: Hromadske online (19/01/2014)
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/Cz-LGMRdmdU" frameborder="0" allowfullscreen></iframe>
