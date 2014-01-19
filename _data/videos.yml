@@ -1,50 +1,49 @@
 - channel: Radio Svoboda live camera 2
   embed_code: |
     <iframe width="853" height="480" src="//radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=52&amp;w=853&amp;h=480" scrolling="no" frameborder="0" ></iframe>
-- channel: Aronetz live
+- channel: Hromadske online (19/01/2014)
   embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16544269?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-- channel: Mustafa live
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16573954?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-- channel: Hromadske online (18/01/2014)
-  embed_code: |
-    <iframe width="853" height="480" src="//www.youtube.com/embed/62ZeBP5U0iE" frameborder="0" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="//www.youtube.com/embed/Cz-LGMRdmdU" frameborder="0" allowfullscreen></iframe>
 - channel: 24 channel online
   embed_code: | 
     <iframe width="853" height="480" src="//www.youtube.com/embed/LIJL2v6RSxU" frameborder="0" allowfullscreen></iframe>
 - channel: Radio Svoboda live
   embed_code: |
     <iframe width="853" height="480" src="//radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=42&amp;w=853&amp;h=480" scrolling="no" frameborder="0"></iframe>
-- channel: Spilne TV
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/15360937?ub=ff3d23&amp;lc=ff3d23&amp;oc=ffffff&amp;uc=ffffff&amp;v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
-- channel: 5 Canal liv
+- channel: 5 Channel live
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/girrrlTQzbg" frameborder="0" allowfullscreen></iframe>
 - channel: Crimean TV
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/rHgFTJafW4g" frameborder="0" allowfullscreen></iframe>
-- channel: KPI live
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/10556312?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-- channel: Za Ukrainu!
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16559628?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-- channel: Grom TV Bankova str
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16613979?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-- channel: NB News
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16554055?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-- channel: "#Euromaidan"
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16573315?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-- channel: "Maidan"
-  embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16621471?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
 - channel: Espreso TV
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/bZ1s1bj6AZE" frameborder="0" allowfullscreen></iframe>
-
+- channel: KPI live
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/10556312?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: Aronetz (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16544269?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
+- channel: Mustafa (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16573954?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>    
+- channel: Spilne TV (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/15360937?ub=ff3d23&amp;lc=ff3d23&amp;oc=ffffff&amp;uc=ffffff&amp;v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
+- channel: Za Ukrainu! (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16559628?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: Grom TV Bankova str (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16613979?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: NB News (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16554055?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: "#Euromaidan" (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16573315?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
+- channel: Maidan (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16621471?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
 
