@@ -16,7 +16,7 @@
 - channel: Espreso TV
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/sE-j_IwxkNM" frameborder="0" allowfullscreen></iframe>
-- channel: Espreso TV live (21/01/2014)
+- channel: Espreso TV live (22/01/2014)
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/jrZcAsPKK74" frameborder="0" allowfullscreen></iframe>
 - channel: KPI live
