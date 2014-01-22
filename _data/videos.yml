@@ -10,9 +10,6 @@
 - channel: 5 Channel live
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/girrrlTQzbg" frameborder="0" allowfullscreen></iframe>
-- channel: Crimean TV
-  embed_code: |
-    <iframe width="853" height="480" src="//www.youtube.com/embed/rHgFTJafW4g" frameborder="0" allowfullscreen></iframe>
 - channel: Espreso TV
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/sE-j_IwxkNM" frameborder="0" allowfullscreen></iframe>
