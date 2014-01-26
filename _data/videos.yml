@@ -1,19 +1,16 @@
-- channel: Hromadske online (25/01/2014)
+- channel: Hromadske online (26/01/2014)
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/EH4QfOYZTs4" frameborder="0" allowfullscreen></iframe>
 - channel: 24 channel online
   embed_code: | 
     <iframe width="853" height="480" src="//www.youtube.com/embed/nNHBSGmTGL0" frameborder="0" allowfullscreen></iframe>
-- channel: Radio Svoboda live
-  embed_code: |
-    <iframe width="853" height="480" src="//radiosvoboda.share.rferl.org/flashembed.aspx?t=t&amp;id=42&amp;w=853&amp;h=480" scrolling="no" frameborder="0"></iframe>
 - channel: 5 Channel live
   embed_code: |
-    <iframe width="853" height="480" src="//www.youtube.com/embed/girrrlTQzbg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="//www.youtube.com/embed/a3xNQA4U9nU" frameborder="0" allowfullscreen></iframe>
 - channel: Espreso TV
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/pZfR-TBv8V0" frameborder="0" allowfullscreen></iframe>
-- channel: Espreso TV live revolution
+- channel: Espreso TV euromaidan live
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/5mlQ9HKG68k" frameborder="0" allowfullscreen></iframe>
 - channel: KPI live
