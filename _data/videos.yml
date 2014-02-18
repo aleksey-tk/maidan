@@ -25,9 +25,12 @@
 - channel: Aronetz (ustream)
   embed_code: |
     <iframe width="853" height="480" src="//www.ustream.tv/embed/16544269?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
+- channel: Rudomanov (ustream)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16819756?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
 - channel: Mustafa (ustream)
   embed_code: |
-    <iframe width="853" height="480" src="//www.ustream.tv/embed/16573954?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>    
+    <iframe width="853" height="480" src="//www.ustream.tv/embed/16573954?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
 - channel: Spilne TV (ustream)
   embed_code: |
     <iframe width="853" height="480" src="//www.ustream.tv/embed/15360937?ub=ff3d23&amp;lc=ff3d23&amp;oc=ffffff&amp;uc=ffffff&amp;v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe>
