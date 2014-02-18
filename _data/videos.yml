@@ -4,6 +4,9 @@
 - channel: Радіо Свобода
   embed_code: |
     <iframe width="853" height="480" src="//www.youtube.com/embed/VjfuEJFFNio" frameborder="0" allowfullscreen></iframe>
+- channel: Радіо Свобода (2 камера)
+  embed_code: |
+    <iframe width="853" height="480" src="//www.youtube.com/embed/ObBHW8XQvUQ" frameborder="0" allowfullscreen></iframe>
 - channel: 24 channel online
   embed_code: | 
     <iframe width="853" height="480" src="//www.youtube.com/embed/nNHBSGmTGL0" frameborder="0" allowfullscreen></iframe>
