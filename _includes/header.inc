@@ -1,28 +1,3 @@
-<!-- Nav Bar 
-<header>
-  <div class="row">
-    <div class="col-lg-12">    
-       <div class="pull-right">
-        <ul class="nav navbar-nav">
-        <!-- Header menu generation using _config.yml
-        {% for link in site.header-navigation %}
-        {% assign current = nil %}
-        {% if page.url == link.url or page.layout == link.layout %}
-          {% assign current = 'active' %}
-        {% endif %}        
-         <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-          <a class="{{ current }} button" href="{{ link.url }}"{% if link.external == true %} target="_blank"{% endif %}>{{ link.text }}</a>
-         </li>
-        {% endfor %}
-        </ul>
-      </div>
-      <h1>{{site.name}} <small>{{site.slogan}}</small></h1>
-     
-      <hr />
-    </div>
-  </div>
-</header>
- End Nav -->
 <!-- Nav Bar -->
 <header>
   <nav class="navbar navbar-default" role="navigation">
@@ -46,7 +21,7 @@
 
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse navbar-ex1-collapse">
-    <ul class="nav navbar-nav navbar-right col-sm-12 col-lg-7 col-md-8" style="margin-top: 20px;">
+    <ul class="nav navbar-nav navbar-right col-sm-12 col-lg-5 col-md-8" style="margin-top: 20px;">
        <!-- Header menu generation using _config.yml -->
         {% for link in site.header-navigation %}
         {% assign current = nil %}

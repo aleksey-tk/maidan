@@ -3,17 +3,18 @@ layout: default
 title: Live Videos
 og_url: http://maidan.alexisyes.com
 id: index
+comments: false
 ---
 <div class="row">
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="">
-  <div class="col-lg-3 col-md-4 col-sm-5 col-xs-12">
+  <div class="col-12">
     <!-- Indicators -->
     {% for video in site.data.videos %}
-      <button type="button" class="btn btn-default" style="width: 100%; margin-bottom: 5px" data-target="#carousel-example-generic" data-slide-to="{{ forloop.index | minus: 1 }}"{% if forloop.first %} class="active"{% endif %}>{{ video.channel }}</button><br />
+      <button type="button" class="btn btn-default" style="width: 49%; margin-bottom: 5px" data-target="#carousel-example-generic" data-slide-to="{{ forloop.index | minus: 1 }}"{% if forloop.first %} class="active"{% endif %}>{{ video.channel }}</button>
     {% endfor %}
   </div>
   
-  <div class="col-lg-9 col-md-8 col-sm-7">
+  <div class="col-12">
     <!-- Videos -->
     <div class="carousel-inner">
     {% for video in site.data.videos %}
