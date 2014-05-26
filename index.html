@@ -6,16 +6,24 @@ id: index
 comments: false
 ---
 <div class="row">
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="">
+  <p class="text-center">
+    We do not aggregate any more videos on the home page, as there is no real reason for it. For the live coverage please check:
+  </p>
+  <p class="text-center">
+    <a href="http://hromadske.tv" style="font-size: 40px;">Hromadske TV</a>
+
+  </p>
+
+<!--<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="">
   <div class="col-12">
-    <!-- Indicators -->
+
     {% for video in site.data.videos %}
       <button type="button" class="btn btn-default" style="width: 49%; margin-bottom: 5px" data-target="#carousel-example-generic" data-slide-to="{{ forloop.index | minus: 1 }}"{% if forloop.first %} class="active"{% endif %}>{{ video.channel }}</button>
     {% endfor %}
   </div>
   
   <div class="col-12">
-    <!-- Videos -->
+
     <div class="carousel-inner">
     {% for video in site.data.videos %}
       <div class="item{% if forloop.first %} active{% endif %}">
@@ -26,5 +34,5 @@ comments: false
     {% endfor %}
     </div>
   </div>
-</div>
+</div>-->
 </div>
