@@ -1,0 +1,53 @@
+---
+layout: default
+title: "Генератор лозунгов ДНР/ЛНР"
+og_title: "Генератор лозунгов ДНР/ЛНР"
+og_description: "Губарёв обзавидовался бы."
+og_image: "http://maidan.is-amazing.com/assets/img/traktor.jpg"
+description: "Генератор лозунгов ДНР/ЛНР. Больше ада. P.S. Putin - huylo"
+keywords: ukraine, war, putin - huilo
+id: coubs
+---
+
+<p class="text-center"><span id="slogan" сlass="text-center"></span></p>
+
+<p class="text-center"><button id="generate">Сгенерировать ещё раз</button></p>
+
+<script language="javascript">
+
+var subjects = [];
+var verbs = [];
+var objects = [];
+var endings = [];
+
+{% for slogan in site.data.slogan %}
+
+{% if slogan.type == 'subject' %}
+  subjects.push("{{ slogan.text }}");
+{% endif %}
+{% if slogan.type == 'verb' %}
+  verbs.push("{{ slogan.text }}");
+{% endif %}
+{% if slogan.type == 'object' %}
+  objects.push("{{ slogan.text }}");
+{% endif %}
+{% if slogan.type == 'ending' %}
+  endings.push("{{ slogan.text }}");
+{% endif %}
+
+{% endfor %}
+
+var i = Math.round(6*Math.random());
+
+document.getElementById('slogan').innerHTML = generate_slogan();
+
+document.getElementById('generate').onclick = function() {
+	document.getElementById('slogan').innerHTML = generate_slogan();
+}
+
+function generate_slogan() {
+	return subjects[Math.round(Math.random()*(subjects.length-1))]+' '+verbs[Math.round(Math.random()*(verbs.length-1))]+' '+objects[Math.round(Math.random()*(objects.length-1))]+' '+endings[Math.round(Math.random()*(endings.length-1))]+'\n';
+}
+
+</script>
+

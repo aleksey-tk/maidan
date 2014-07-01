@@ -1,0 +1,42 @@
+- text: "ДНР"
+  type: subject
+- text: "Каратели"
+  type: subject
+- text: "Фашисты"
+  type: subject  
+- text: "Правый сектор"
+  type: subject
+- text: "ЛНР"
+  type: subject
+- text: "Губарёв"
+  type: subject
+- text: "Гиркин"
+  type: subject
+- text: "Губарёв"
+  type: subject
+- text: "Хунта"
+  type: subject
+- text: "обнаружила"
+  type: verb
+- text: "боится"
+  type: verb
+- text: "атакует"
+  type: verb
+- text: "спит и видит"
+  type: verb
+- text: "американский флаг"
+  type: object
+- text: "подпольную борьбу"
+  type: object
+- text: "гражданских журналистов"
+  type: object
+- text: "фосфорную бомбу"
+  type: object
+- text: "визитку Яроша"
+  type: object
+- text: "в логове польских наёмников."
+  type: ending
+- text: "по словам очень надежного германского источника."
+  type: ending
+- text: "по принципам православной этики."
+  type: ending
