@@ -2,6 +2,8 @@
   type: subject
 - text: "Царев"
   type: subject
+- text: "Путин-Хуйло"
+  type: subject
 - text: "Каратели"
   type: subject
 - text: "Фашист"
@@ -26,7 +28,11 @@
   type: verb
 - text: "прорабатывает"
   type: verb
+- text: "попросил"
+  type: verb
 - text: "американский флаг"
+  type: object
+- text: "ввести войска"
   type: object
 - text: "подпольную борьбу"
   type: object
@@ -41,6 +47,8 @@
 - text: "фосфорную бомбу"
   type: object
 - text: "визитку Яроша"
+  type: object
+- text: "химическое оружие"
   type: object
 - text: "в логове польских наёмников."
   type: ending
