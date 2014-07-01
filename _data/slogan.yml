@@ -28,7 +28,11 @@
   type: verb
 - text: "прорабатывает"
   type: verb
+- text: "попросил Путина"
+  type: verb
 - text: "американский флаг"
+  type: object
+- text: "ввести войска"
   type: object
 - text: "подпольную борьбу"
   type: object
