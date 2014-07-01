@@ -2,13 +2,11 @@
   type: subject
 - text: "Каратели"
   type: subject
-- text: "Фашисты"
+- text: "Фашист"
   type: subject  
 - text: "Правый сектор"
   type: subject
 - text: "ЛНР"
-  type: subject
-- text: "Губарёв"
   type: subject
 - text: "Гиркин"
   type: subject
@@ -24,19 +22,33 @@
   type: verb
 - text: "спит и видит"
   type: verb
+- text: "прорабатывает"
+  type: verb
 - text: "американский флаг"
   type: object
 - text: "подпольную борьбу"
   type: object
 - text: "гражданских журналистов"
   type: object
+- text: "мирных ополченцев"
+  type: object
+- text: "установку град"
+  type: object  
+- text: "кадыровских овцеёбов"
+  type: object  
 - text: "фосфорную бомбу"
   type: object
 - text: "визитку Яроша"
   type: object
 - text: "в логове польских наёмников."
   type: ending
+- text: "по словам советского информ бюро."
+  type: ending
 - text: "по словам очень надежного германского источника."
   type: ending
 - text: "по принципам православной этики."
+  type: ending
+- text: "стало известно из независимых источников."
+  type: ending
+- text: "рассказал первый канал."
   type: ending
