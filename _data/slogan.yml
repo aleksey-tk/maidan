@@ -2,6 +2,8 @@
   type: subject
 - text: "Царев"
   type: subject
+- text: "Путин-Хуйло"
+  type: subject
 - text: "Каратели"
   type: subject
 - text: "Фашист"
@@ -41,6 +43,8 @@
 - text: "фосфорную бомбу"
   type: object
 - text: "визитку Яроша"
+  type: object
+- text: "химическое оружие"
   type: object
 - text: "в логове польских наёмников."
   type: ending
