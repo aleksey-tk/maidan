@@ -1,11 +1,18 @@
 - text: "ДНР"
   type: subject
+- text: "Мирные шахтёры"
+  type: subject
+  multiple: true
+- text: "Ополченцы"
+  type: subject
+  multiple: true
 - text: "Царев"
   type: subject
-- text: "Путин-Хуйло"
+- text: "Путин"
   type: subject
 - text: "Каратели"
   type: subject
+  multiple: true
 - text: "Фашист"
   type: subject  
 - text: "Правый сектор"
@@ -18,10 +25,16 @@
   type: subject
 - text: "Хунта"
   type: subject
-- text: "обнаружила"
+- text: "обнаружил"
   type: verb
 - text: "боится"
   type: verb
+- text: "окружает"
+  type: verb
+  type: one
+- text: "окружают"
+  type: verb
+  multiple: true
 - text: "атакует"
   type: verb
 - text: "спит и видит"
@@ -48,13 +61,21 @@
   type: object
 - text: "визитку Яроша"
   type: object
+- text: "Лисичанск"
+  type: object
+- text: "Славянск"
+  type: object
+- text: "Донецк"
+  type: object
+- text: "Луганск"
+  type: object
 - text: "химическое оружие"
   type: object
 - text: "в логове польских наёмников."
   type: ending
-- text: "по словам советского информ бюро."
+- text: "по словам очень надежного немецкого источника."
   type: ending
-- text: "по словам очень надежного германского источника."
+- text: "по словам очень надежного российского источника."
   type: ending
 - text: "по принципам православной этики."
   type: ending
