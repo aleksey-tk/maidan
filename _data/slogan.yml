@@ -8,6 +8,8 @@
   multiple: true
 - text: "Царев"
   type: subject
+- text: "НАТО"
+  type: subject
 - text: "Путин"
   type: subject
 - text: "Каратели"
@@ -31,10 +33,16 @@
   type: verb
 - text: "окружает"
   type: verb
-  type: one
+  multiple: true
 - text: "окружают"
   type: verb
   multiple: true
+- text: "атаковал"
+  type: verb
+  multiple: true
+- text: "атаковали"
+  type: verb
+  multiple: true 
 - text: "атакует"
   type: verb
 - text: "спит и видит"
@@ -42,6 +50,8 @@
 - text: "прорабатывает"
   type: verb
 - text: "попросил"
+  type: verb
+- text: "сбил"
   type: verb
 - text: "американский флаг"
   type: object
@@ -57,15 +67,21 @@
   type: object  
 - text: "кадыровских овцеёбов"
   type: object  
+- text: "баллистическую ракету"
+  type: object  
 - text: "фосфорную бомбу"
   type: object
 - text: "визитку Яроша"
+  type: object
+- text: "сверхзвуковой беспилотник"
   type: object
 - text: "Лисичанск"
   type: object
 - text: "Славянск"
   type: object
 - text: "Донецк"
+  type: object
+- text: "Донбасс"
   type: object
 - text: "Луганск"
   type: object
